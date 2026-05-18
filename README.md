@@ -4,7 +4,7 @@ A real-time virtual calculator built using Python, OpenCV, and MediaPipe that en
 
 ## Demo Video
 
-[Watch Project Demo](https://github.com/HardikThakur07/Virtual_Calculator_Using_ComputerVision/blob/master/Virtual_Calculator_Project_Demo.gif)
+![Virtual Calculator Demo](https://github.com/HardikThakur07/Virtual_Calculator_Using_ComputerVision/blob/master/Virtual_Calculator_Project_Demo.gif)
 
 ## Features
 
