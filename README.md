@@ -3,6 +3,7 @@
 A real-time virtual calculator built using Python, OpenCV, and MediaPipe that enables touchless arithmetic operations using hand gestures and live webcam tracking.
 
 ## Demo Video
+https://github.com/HardikThakur07/Virtual_Calculator_Using_ComputerVision/blob/master/Virtual_Calculator_Project_Demo.mp4
 
 ## Features
 
