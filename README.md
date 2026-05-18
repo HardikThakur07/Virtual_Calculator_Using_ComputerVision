@@ -1,7 +1,45 @@
-About ---
+# AI Virtual Calculator using OpenCV & Hand Gesture Recognition
 
-Virtual-Calculator-in-Opencv-python ,this is based on the computer vision technique and used cvzone HandTrackingModule to track the finger position.build a virtual calculator that uses finger movements to operate. We will create a button class and generate 20 different buttons that will help us perform the calculation and used pyttsx3 is a text-to-speech conversion library in Python.
+A real-time virtual calculator built using Python, OpenCV, and MediaPipe that enables touchless arithmetic operations using hand gestures and live webcam tracking.
 
-Demo--
+## Demo Video
 
-![](https://github.com/Divyansh6799/Virtual-Calculator/blob/master/20220124_135536.gif)
+## Features
+
+- Real-time hand tracking and gesture recognition
+- Touchless virtual calculator interface
+- Webcam-based interaction
+- Finger distance click detection
+- Real-time arithmetic evaluation
+- Interactive UI rendering using OpenCV
+- Voice assistant startup using pyttsx3
+
+## Technologies Used
+
+- Python
+- OpenCV
+- MediaPipe
+- CVZone
+- NumPy
+- Pyttsx3
+- Computer Vision
+
+## Concepts Implemented
+
+- Hand Landmark Detection
+- Gesture Recognition
+- Real-Time Video Processing
+- Finger Distance Calculation
+- Human-Computer Interaction
+- Touchless UI Interaction
+
+## Project Overview
+
+The project uses MediaPipe and CVZone for real-time hand landmark detection through a webcam. Users can interact with a virtual calculator interface by moving their index finger and performing click gestures using finger distance detection.
+
+## Author
+
+Hardik Thakur
+
+GitHub:
+https://github.com/HardikThakur07
